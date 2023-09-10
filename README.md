@@ -1,6 +1,10 @@
 # TicTacToe_JavaScript
 This repository contains a simple implementation of the classic Tic-Tac-Toe game using JavaScript, HTML, and CSS. The game allows two players to take turns placing their respective symbols (X and O) on a 3x3 grid. The first player to align three of their symbols either horizontally, vertically, or diagonally wins the game.
 
+Youtube Tutorial Link: https://youtu.be/GUOisFZP_Fg
+
+Live Preview: https://constgenius.github.io/TicTacToe_JavaScript/
+
 # How to Play
 1. Clone or download the repository to your local machine.
 2. Open the index.html file in your web browser.
