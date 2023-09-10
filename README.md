@@ -5,6 +5,8 @@ Youtube Tutorial Link: https://youtu.be/GUOisFZP_Fg
 
 Live Preview: https://constgenius.github.io/TicTacToe_JavaScript/
 
+![Tic Tac Toe](/TicTacToe.png)
+
 # How to Play
 1. Clone or download the repository to your local machine.
 2. Open the index.html file in your web browser.
